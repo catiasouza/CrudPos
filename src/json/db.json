@@ -1,0 +1,25 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "nome": "catia",
+        "sobrenome": "Souza",
+        "cpf": "000.000.000-00",
+        "dataNascimento": "22" 
+      },
+      {
+        "id": "2",
+        "nome": "rick",
+        "sobrenome": "Souza",
+        "cpf": "000.000.000-01",
+        "dataNascimento": "33" 
+      },
+      {
+        "id": "3",
+        "nome": "jenny",
+        "sobrenome": "Souza",
+        "cpf": "000.000.000-02",
+        "dataNascimentoo": "32" 
+      }
+    ]
+  }

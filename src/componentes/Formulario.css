@@ -1,0 +1,21 @@
+
+h1 {
+    color: black;
+}
+
+#formulario {
+    border: 1px solid gray;
+    height: 300px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+#pesquisar_cpf {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+}
